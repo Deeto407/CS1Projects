@@ -1,0 +1,16 @@
+15  
+1 apple 40  
+1 application 25  
+2 app  
+1 aply 65  
+2 ap  
+1 banana 60  
+2 ba  
+1 band 20  
+2 abc  
+1 bandage 10  
+1 bat 50  
+2 bat  
+1 batter 30  
+1 apply 40  
+2 appl 
